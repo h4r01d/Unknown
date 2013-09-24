@@ -1,0 +1,32 @@
+c:\users\ifsp\documents\visual studio 2010\Projects\BrowserTest\BrowserTest\bin\Debug\BrowserTest.exe
+c:\users\ifsp\documents\visual studio 2010\Projects\BrowserTest\BrowserTest\bin\Debug\BrowserTest.pdb
+c:\users\ifsp\documents\visual studio 2010\Projects\BrowserTest\BrowserTest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ifsp\documents\visual studio 2010\Projects\BrowserTest\BrowserTest\obj\x86\Debug\BrowserTest.Form1.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\BrowserTest\BrowserTest\obj\x86\Debug\BrowserTest.Properties.Resources.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\BrowserTest\BrowserTest\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ifsp\documents\visual studio 2010\Projects\BrowserTest\BrowserTest\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ifsp\documents\visual studio 2010\Projects\BrowserTest\BrowserTest\obj\x86\Debug\BrowserTest.exe
+c:\users\ifsp\documents\visual studio 2010\Projects\BrowserTest\BrowserTest\obj\x86\Debug\BrowserTest.pdb
+E:\IFSP\PJS\BrowserTest\BrowserTest\obj\x86\Debug\BrowserTest.exe
+E:\IFSP\PJS\BrowserTest\BrowserTest\obj\x86\Debug\BrowserTest.pdb
+E:\IFSP\PJS\BrowserTest\BrowserTest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\IFSP\PJS\BrowserTest\BrowserTest\obj\x86\Debug\BrowserTest.Zecram.resources
+E:\IFSP\PJS\BrowserTest\BrowserTest\obj\x86\Debug\BrowserTest.Properties.Resources.resources
+E:\IFSP\PJS\BrowserTest\BrowserTest\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\IFSP\PJS\BrowserTest\BrowserTest\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\IFSP\PJS\BrowserTest\BrowserTest\bin\Debug\BrowserTest.exe
+E:\IFSP\PJS\BrowserTest\BrowserTest\bin\Debug\BrowserTest.pdb
+E:\IFSP\PJS\BrowserTest\BrowserTest\obj\x86\Debug\BrowserTest.AboutBox.resources
+F:\IFSP\PJS\BrowserTest\BrowserTest\obj\x86\Debug\BrowserTest.exe
+F:\IFSP\PJS\BrowserTest\BrowserTest\obj\x86\Debug\BrowserTest.pdb
+F:\IFSP\PJS\BrowserTest\BrowserTest\bin\Debug\BrowserTest.exe
+F:\IFSP\PJS\BrowserTest\BrowserTest\bin\Debug\BrowserTest.pdb
+F:\IFSP\PJS\BrowserTest\BrowserTest\obj\x86\Debug\BrowserTest.AboutBox.resources
+F:\IFSP\PJS\BrowserTest\BrowserTest\obj\x86\Debug\BrowserTest.Zecram.resources
+F:\IFSP\PJS\BrowserTest\BrowserTest\obj\x86\Debug\BrowserTest.Properties.Resources.resources
+F:\IFSP\PJS\BrowserTest\BrowserTest\obj\x86\Debug\BrowserTest.csproj.GenerateResource.Cache
+E:\IFSP\PJS\BrowserTest\BrowserTest\bin\Debug\BrowserTest.exe.config
+E:\IFSP\PJS\BrowserTest\BrowserTest\bin\Debug\MyDatabase#1.sdf
+F:\IFSP\PJS\BrowserTest\BrowserTest\bin\Debug\BrowserTest.exe.config
+F:\IFSP\PJS\BrowserTest\BrowserTest\obj\x86\Debug\BrowserTest.csprojResolveAssemblyReference.cache
+F:\IFSP\PJS\BrowserTest\BrowserTest\bin\Debug\MyDatabase#1.sdf
